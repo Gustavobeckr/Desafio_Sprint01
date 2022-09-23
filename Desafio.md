@@ -32,3 +32,8 @@
 9.Qual a diferença entre git e github? 
 	O git é apenas um software para controle de versão e o github é um página web onde vários usuários de git 
 	se juntam para compartilhar seus repositórios, tipo uma rede social.
+
+10.Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
+	Os dois verbos http que podemos utiizar para realizar um update são PUT e PATCH. O método PUT substitui 
+	todas as atuais representações do recurso de destino pela carga de dados da requisição e o método PATCH é 
+	utilizado para aplicar modificações parciais em um recurso.
