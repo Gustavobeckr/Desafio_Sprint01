@@ -37,3 +37,7 @@
 	Os dois verbos http que podemos utiizar para realizar um update são PUT e PATCH. O método PUT substitui 
 	todas as atuais representações do recurso de destino pela carga de dados da requisição e o método PATCH é 
 	utilizado para aplicar modificações parciais em um recurso.
+
+11.Qual o status code que pode ser usado na criação de um novo usuário? 
+	O status code que pode ser usado na criação de um novo usuário é o POST, normalmente usado sem passagem de 
+	parâmetro, também usado para criar uma nova nota.
