@@ -55,3 +55,8 @@
 14.O que é a linguagem de programação Dart?
 	O Dart é uma linguagem de programação que tem interoperabilidade, ou seja, consegue se comunicar com outra linguagem que é o JavaScript. 
 	O Dart tem paradigma de orientação a objeto com uma sintaxe simples e fácil de aprender e é usada por ferramentas como o flutter.
+
+15.O que é o Flutter?
+	O Flutter é um kit de ferramenta para UI desenvolvida pelo Google que compila aplicações de forma nativa para celular, web e desktop 
+	com o mesmo código. Ele utiliza a linguagem de programação Dart, também desenvolvida pelo Google. Com essa linguagem, a plataforma 
+	consegue compilar diretamente para o binário que irá rodar no sistema operacional do celular, seja iPhone ou Android. 	
