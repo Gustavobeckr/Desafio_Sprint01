@@ -73,3 +73,7 @@
 	se sabe qual valor a variável vai receber, porém assim que essa variável final recebe algo 
 	esse valor fica constante nela não podendo ser alterado. A variável var é usada quando não 
 	se sabe o tipo da variável, ou seja, quando não se sabe se ela vai receber um valor de String, Int, Double...
+
+19.Qual a diferença entre um Statefull e Stateless widget?
+	No statefull a gente pode modificar o conteúdo da widget de maneira dinâmica e no stateless é exatamento o 
+	contrário, ou seja, não conseguimos modificar o conteúdo da widget com stateless.
