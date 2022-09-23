@@ -77,3 +77,7 @@
 19.Qual a diferença entre um Statefull e Stateless widget?
 	No statefull a gente pode modificar o conteúdo da widget de maneira dinâmica e no stateless é exatamento o 
 	contrário, ou seja, não conseguimos modificar o conteúdo da widget com stateless.
+
+20.Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
+	o conceito de gerenciamento de estado serve para notificar o Flutter sobre o que ele precisa redesenhar e como 
+	fazer isso de forma performática, custando pouco processamento.
