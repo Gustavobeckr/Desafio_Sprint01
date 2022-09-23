@@ -67,3 +67,9 @@
 17.Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
 	Algumas ferramentas comuns para criar apps em flutter são: runApp, Scaffold, MaterialApp, AppBar, Column entra outras várias que 
 	o flutter pode utilizar.
+
+18.Qual a diferença entre uma variavel final e uma variavel var?
+	A variavel final pode ser atribuída a qualquer tipo de variável e é usada quando não
+	se sabe qual valor a variável vai receber, porém assim que essa variável final recebe algo 
+	esse valor fica constante nela não podendo ser alterado. A variável var é usada quando não 
+	se sabe o tipo da variável, ou seja, quando não se sabe se ela vai receber um valor de String, Int, Double...
