@@ -1,3 +1,9 @@
-1.Para que serve o método Scrum?
-	Scrum é uma metodologia ágil de trabalho para otimizar a entrega de resultados,
-	não deixando tarefas cansativas ou desmotivando o time que está trabalhando.
+1.Para que serve o mï¿½todo Scrum?
+	Scrum ï¿½ uma metodologia ï¿½gil de trabalho para otimizar a entrega de resultados,
+	nï¿½o deixando tarefas cansativas ou desmotivando o time que estï¿½ trabalhando.
+
+2.Como funciona o mÃ©todo Scrum? 
+	O mÃ©todo Scrum consiste vÃ¡rio mÃ©todos para otimizar o trabalho em equipe e cumprir metas, 
+	como as Sprints que podem levar no mÃ¡ximo um mÃªs e tem como padrÃ£o duas semanas, essas Sprints 
+	sÃ£o para que o time trabalhe em conjunto para entrega de resuldato para o cliente que no final 
+	de cada Sprint observa os resultados e avalia se precisa de melhorias ou estÃ¡ tudo certo.
