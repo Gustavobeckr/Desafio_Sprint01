@@ -81,3 +81,7 @@
 20.Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
 	o conceito de gerenciamento de estado serve para notificar o Flutter sobre o que ele precisa redesenhar e como 
 	fazer isso de forma performática, custando pouco processamento.
+
+21.Qual a finalidade dos métodos initState e dispose?
+	InitiState metodo do flutter para executar operações antes de loading da tela. Com dispose você consegue excutar operações
+	antes de uma tela ser deletada.
