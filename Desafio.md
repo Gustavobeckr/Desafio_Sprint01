@@ -63,3 +63,7 @@
 
 16.Como inicio um novo projeto com Flutter?
 	para iniciar um projeto com flutter vá na IDE que você usa e antes de tudo precisa adicionar o plugin do dart e do flutter, após isso clique em novo projeto com flutter, escolha o local que você quer criar seu projeto e então finalize a criação do novo projeto. 
+
+17.Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
+	Algumas ferramentas comuns para criar apps em flutter são: runApp, Scaffold, MaterialApp, AppBar, Column entra outras várias que 
+	o flutter pode utilizar.
