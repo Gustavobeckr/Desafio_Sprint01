@@ -14,3 +14,6 @@
 4.O que é um scrum Product Owner? 
 	O Product Owner é o representante do cliente dentro do time e define prioridades de acordo com 
 	o pedido do cliente, mantendo o product backlog atualizado.
+
+5.Qual o comando para criação de um novo repositório no Git?
+	Para o Git iniciar um repositório o comando é "git init". 
