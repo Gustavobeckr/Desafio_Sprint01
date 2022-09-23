@@ -24,3 +24,7 @@
 7.O que é a Branch master e para que serve? 
 	O Branch master é a branch padrão de quando você cria um repositório. Branch é uma linha de desenvolvimento, 
 	ultilizado para desenvolver funcionalidades isoladas umas das outras. 
+
+8.Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
+	Para atualizar um repositório local o comando é "git pull" na sua pasta de trabalho para obter e fazer merge 
+	nas alterações remotas. Para fazer merge de um outro branch ao seu branch ativo o comando é "git merge <branch>".
