@@ -60,3 +60,6 @@
 	O Flutter é um kit de ferramenta para UI desenvolvida pelo Google que compila aplicações de forma nativa para celular, web e desktop 
 	com o mesmo código. Ele utiliza a linguagem de programação Dart, também desenvolvida pelo Google. Com essa linguagem, a plataforma 
 	consegue compilar diretamente para o binário que irá rodar no sistema operacional do celular, seja iPhone ou Android. 	
+
+16.Como inicio um novo projeto com Flutter?
+	para iniciar um projeto com flutter vá na IDE que você usa e antes de tudo precisa adicionar o plugin do dart e do flutter, após isso clique em novo projeto com flutter, escolha o local que você quer criar seu projeto e então finalize a criação do novo projeto. 
