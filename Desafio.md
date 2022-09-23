@@ -44,10 +44,14 @@
 
 12.Quais são os três status code que modem ser utilizados para realizar o delete? 
 	GET, DELETE e PUT – sendo o PUT utilizado para criar ou editar um recurso.
-	
+
 13.Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
 	1xx: Informativo – a solicitação foi aceita ou o processo continua em andamento;
 	2xx: Confirmação – a ação foi concluída ou entendida;
 	3xx: Redirecionamento – indica que algo mais precisa ser feito ou precisou ser feito para completar a solicitação;
 	4xx: Erro do cliente- indica que a solicitação não pode ser concluída ou contém a sintaxe incorreta;
 	5xx: Erro no servidor – o servidor falhou ao concluir a solicitação.
+
+14.O que é a linguagem de programação Dart?
+	O Dart é uma linguagem de programação que tem interoperabilidade, ou seja, consegue se comunicar com outra linguagem que é o JavaScript. 
+	O Dart tem paradigma de orientação a objeto com uma sintaxe simples e fácil de aprender e é usada por ferramentas como o flutter.
