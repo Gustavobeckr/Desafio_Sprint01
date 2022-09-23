@@ -41,3 +41,6 @@
 11.Qual o status code que pode ser usado na criação de um novo usuário? 
 	O status code que pode ser usado na criação de um novo usuário é o POST, normalmente usado sem passagem de 
 	parâmetro, também usado para criar uma nova nota.
+
+12.Quais são os três status code que modem ser utilizados para realizar o delete? 
+	GET, DELETE e PUT – sendo o PUT utilizado para criar ou editar um recurso.
