@@ -85,3 +85,6 @@
 21.Qual a finalidade dos métodos initState e dispose?
 	InitiState metodo do flutter para executar operações antes de loading da tela. Com dispose você consegue excutar operações
 	antes de uma tela ser deletada.
+
+22.Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @Flutter-set.22 e quais suas expectativas a partir de agora:
+	Sobre minha experiência foram cursos muito bons que fizerem render um bom aprendizado, estou muito feliz em estar conseguindo esse conhecimento que irá me ajudar tanto profissionalmenta como pessoalmente. minhas expectativas futuras são evouir cada vez mais com a evolução contínua da metologia usada e aproveitar.
